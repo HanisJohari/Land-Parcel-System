@@ -1,0 +1,20 @@
+1;John Doe;1000;R;ABC Street;100000
+2;Jane Smith;5000;A;XYZ Road;75000
+3;Michael Johnson;20000;C;123 Avenue;500000
+4;Alice Brown;1500;R;456 Boulevard;120000
+5;Robert White;8000;A;789 Lane;90000
+6;Sarah Miller;3000;C;101 Main Street;300000
+7;David Lee;1200;R;222 Park Avenue;95000
+8;Emily Taylor;6000;A;333 Hilltop Drive;70000
+9;William Clark;18000;C;444 River Road;450000
+10;Olivia Martinez;2000;R;555 Oak Lane;110000
+11;James Rodriguez;7000;A;666 Maple Street;80000
+12;Emma Wilson;25000;C;777 Pine Avenue;600000
+13;Matthew Anderson;3000;R;888 Elm Court;130000
+14;Sophia Thomas;10000;A;999 Cherry Lane;85000
+15;Ethan Hernandez;40000;C;1234 Forest Road;750000
+16;Isabella Lopez;4000;R;5678 Vine Street;140000
+17;Aiden Lewis;15000;A;91011 Cedar Drive;95000
+18;Mia King;60000;C;1213 Lakeview Drive;900000
+19;Liam Green;5000;R;1415 Meadow Lane;160000
+20;Charlotte Baker;20000;A;1617 Hillside Avenue;110000

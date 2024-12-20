@@ -1,0 +1,50 @@
+
+1
+ John Doe
+1000.0 square meters
+R
+ABC Street
+100000.0
+ 100000000.00
+4
+ Alice Brown
+1500.0 square meters
+R
+456 Boulevard
+120000.0
+ 180000000.00
+7
+ David Lee
+1200.0 square meters
+R
+222 Park Avenue
+95000.0
+ 114000000.00
+10
+ Olivia Martinez
+2000.0 square meters
+R
+555 Oak Lane
+110000.0
+ 220000000.00
+13
+ Matthew Anderson
+3000.0 square meters
+R
+888 Elm Court
+130000.0
+ 390000000.00
+16
+ Isabella Lopez
+4000.0 square meters
+R
+5678 Vine Street
+140000.0
+ 560000000.00
+19
+ Liam Green
+5000.0 square meters
+R
+1415 Meadow Lane
+160000.0
+ 800000000.00

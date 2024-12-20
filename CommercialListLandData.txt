@@ -1,0 +1,43 @@
+
+3
+ Michael Johnson
+20000.0 square meters
+C
+123 Avenue
+500000.0
+ 10000000000.00
+6
+ Sarah Miller
+3000.0 square meters
+C
+101 Main Street
+300000.0
+ 900000000.00
+9
+ William Clark
+18000.0 square meters
+C
+444 River Road
+450000.0
+ 8100000000.00
+12
+ Emma Wilson
+25000.0 square meters
+C
+777 Pine Avenue
+600000.0
+ 15000000000.00
+15
+ Ethan Hernandez
+40000.0 square meters
+C
+1234 Forest Road
+750000.0
+ 30000000000.00
+18
+ Mia King
+60000.0 square meters
+C
+1213 Lakeview Drive
+900000.0
+ 54000000000.00

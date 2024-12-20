@@ -1,0 +1,50 @@
+
+2
+ Jane Smith
+5000.0 square meters
+A
+XYZ Road
+75000.0
+ 375000000.00
+5
+ Robert White
+8000.0 square meters
+A
+789 Lane
+90000.0
+ 720000000.00
+8
+ Emily Taylor
+6000.0 square meters
+A
+333 Hilltop Drive
+70000.0
+ 420000000.00
+11
+ James Rodriguez
+7000.0 square meters
+A
+666 Maple Street
+80000.0
+ 560000000.00
+14
+ Sophia Thomas
+10000.0 square meters
+A
+999 Cherry Lane
+85000.0
+ 850000000.00
+17
+ Aiden Lewis
+15000.0 square meters
+A
+91011 Cedar Drive
+95000.0
+ 1425000000.00
+20
+ fatin
+12000.0 square meters
+A
+tapah
+1200.0
+ 14400000.00
